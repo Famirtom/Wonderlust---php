@@ -3,9 +3,9 @@
 <body>
 <?php 
 // client id  
-//1076802734172-mrhp4lj71jvf735dgk5trank3c273mg1.apps.googleusercontent.com
+
 //client secret
-//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
+
 //scope
 //https://www.googleapis.com/auth/blogger
 //api key
@@ -27,3 +27,4 @@
 </body>
 
 </html>
+
