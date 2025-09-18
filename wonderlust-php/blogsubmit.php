@@ -7,7 +7,7 @@ session_start();
  
  
 $post_string2 = "{'kind': 'blogger#post',  
-                   'blog': {  'id': '844946807545966636'  },  
+                   'blog': {  'id': ''  },  
   		   			'title': '$title',  
 		   			'content': '$content'}
 		";
@@ -41,4 +41,5 @@ if(isset($response_data['error'])){
 }
 
  
+
 ?>
