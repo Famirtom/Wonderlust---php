@@ -75,7 +75,7 @@ $code = $_GET['code'];
  
 $post_array = array(
 	'client_id' => '1076802734172-mrhp4lj71jvf735dgk5trank3c273mg1.apps.googleusercontent.com',
-	'client_secret' => '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',
+	'client_secret' => '',
 	'code' => $code,
 	'grant_type' => 'authorization_code',
 	'redirect_uri' => 'http://localhost/blog1.php'
@@ -171,4 +171,5 @@ $_SESSION['token'] = $obj->access_token;
  
 </script>
 </body>
+
 </html>
